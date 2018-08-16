@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Manggis
+  m_EditorClassIdentifier: 
+  name: Mangosteen
+  detailContent: Mangosteen fruit comes from Indonesia. Mangosteen fruit has many
+    nutrients that are beneficial to health, so the mangosteen fruit is considered
+    as the fruit of the God.
+  nutritionContent: Nutrition Energy 63 kkal\n Carbohydrate 15.6 g\n Protein  0.50
+    g\n Vitamin B1 (Thiamine)  0,054 mg\n Vitamin B2 (Riboflavin)  0,054 mg\n Vitamin
+    B3 (Niacin)   0,286 mg\n Vitamin B5 (Panthothenic acid) 0,032 mg\n Vitamin B6
+    (Pyridoxine)  0,041 mg\n Vitamin B9 (Folates)   8 %\n Calcium    5.49 mg\n Iron    0.17
+    mg\n
+  benefitContent: Fights free radical and help reducing chances of cancer\n Improve
+    the immune system\n Contains anti-inflammatory and anti-fungal compounds\n Cure
+    for dysentry, diarrhea, and urinary problems\n Helps improve metabolisme\n Keep
+    your blood pressure and heart rate normal\n Helps TB treatment\n Maintain a healthy
+    skin\n
+  riskContent: Mangosteen might slow blood clotting\nDaily consumption of mangosteen
+    juice for 12 months can cause severe lactic acidosis\nMangosteen can interfere
+    with the effects of radiation treatment and chemotherapy drugs\nFresh mangosteen
+    is not harmful for diabetics but it may interfere with the drugs related to blood
+    sugar\nAn ounce of mangosteen supplement can lead to temporary loose stools\nPatients
+    diagnosed with this disease should avoid using mangosteen as it can increase red
+    blood cell mass
+  vitA: 0
+  vitC: 0.04
+  vitE: 0

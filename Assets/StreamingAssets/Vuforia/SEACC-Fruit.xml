@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="manggis2" size="1.000000 0.561429" />
+    <ImageTarget name="mangga1" size="1.000000 1.090206" />
+    <ImageTarget name="jeruk" size="1.000000 0.983796" />
+    <ImageTarget name="plum" size="1.000000 0.699000" />
+    <ImageTarget name="semangka1" size="1.000000 0.657895" />
+    <ImageTarget name="lemon" size="1.000000 0.666667" />
+    <ImageTarget name="Alpukat" size="1.000000 0.794922" />
+    <ImageTarget name="bengkoang" size="1.000000 0.581875" />
+    <ImageTarget name="mango" size="1.000000 1.000000" />
+    <ImageTarget name="pepaya" size="1.000000 0.666504" />
+    <ImageTarget name="pisang" size="1.000000 0.703333" />
+    <ImageTarget name="apel" size="1.000000 0.754859" />
+    <ImageTarget name="emulator_ground_plane_scaled" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

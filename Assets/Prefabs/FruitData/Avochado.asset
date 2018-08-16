@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Avochado
+  m_EditorClassIdentifier: 
+  name: Avochado
+  detailContent: Rich, creamy and flavorful, avocados are a versatile fruit that add
+    heft and health to many dishes. While avocados have a high fat content, they are
+    also packed with nutrients and are a great way to add healthy fat to your diet.
+  nutritionContent: Nutrition Calories\t160 kkal\n Carbohydrate\t13 g\n Protein\t3
+    g\n Calcium\t12 mg\n Iron\t0,55 mg\n Vitamin E\t2,07 mg\n Tembaga\t0.19 mg\n Vitamin
+    B3 (Niacin)\t1,74 mg\n Vitamin B5 (Panthothenic acid)\t1,39 mg\n Vitamin A\t1%\n
+    Vitamin C\t11%\n
+  benefitContent: "Avocados are high in mono- and polyunsaturated fats, which may
+    help reduce blood cholesterol levels and decrease risk for heart disease\\nAvocados
+    have great anti-inflammatory properties\\nAvocados may help not only lower bad
+    cholesterol, they may also increase levels of good cholesterol\\nThe soluble fiber
+    in avocados can help keep blood sugar levels steady\\nAvocados\u2019 high levels
+    of potassium can help keep blood pressure under control\\nGlutathione is a powerful
+    antioxidant associated with immune system health\\nAvocados have been shown to
+    reduce the risk of certain cancers, including cancers of the mouth, skin and prostate\\nThe
+    fiber in avocados helps keep digestion on track, encouraging regular bowel movements,
+    healthy intestines and a healthy weight\\nThe vitamin C and vitamin E in avocados
+    help keep skin nourished and glowing"
+  riskContent: Consuming too many avocados may lead to weight gain because of the
+    fat content, even though it is an unsaturated fat\nIt can also lead to nutritional
+    deficiencies, since fat is digested slower and leaves you feeling fuller longer
+    than other nutrients
+  vitA: 0.161
+  vitC: 0.161
+  vitE: 0.19

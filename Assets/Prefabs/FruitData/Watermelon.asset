@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Watermelon
+  m_EditorClassIdentifier: 
+  name: Watermelon
+  detailContent: 'On the contrary, watermelon seeds provide many benefits to our body.
+    Because watermelon seeds themselves contain minerals, proteins, fat acids, folate,
+    niacin, thiamine, and many more. '
+  nutritionContent: Nutrition Energy    30 kkal\n Carbohydrate    7.6 g\n Protein    0.6
+    g\n Vitamin A    569 UI\n Vitamin C    8.1 mg\n Vitamin B5 (Panthothenic acid)
+    0.221 mg\n Vitamin B6 (Pyridoxine)  0.045 mg\n Vitamin B1 (Thiamine)  0.33 mg\n
+    Zinc    0.10 mg\n Calcium    7 mg\n
+  benefitContent: Keeping the body hydrated\n Reduce the risk of Cancer\n Reduce the
+    risk of stroke, heart attacks, and high blood pressure\n Prevents stiff muscles\n
+    Maintaining kidney health\n Increase body endurance\n Maintain bone health\n Anti-inflammatory\n
+  riskContent: If you eat an abundance of the fruit daily, however, you may experience
+    problems from having too much lycopene or potassium\nThe consumption of more than
+    30 mg of lycopene daily could potentially cause nausea, diarrhea, indigestion
+    and bloating\nPeople with serious hyperkalemia, or too much potassium in their
+    blood, should probably not consume more than about one cup of watermelon a day,
+    which has less than 140 mg of potassium\nThough watermelon's sugar is naturally
+    occurring, watermelon is still relatively high in sugar
+  vitA: 0.291
+  vitC: 0.234
+  vitE: 0.023

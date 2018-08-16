@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  name: Apple
+  detailContent: Apples are one of the healthiest foods a person can eat. They are
+    high in fiber and vitamin C, and they are also low in calories, have only a trace
+    of sodium, and no fat or cholesterol.
+  nutritionContent: Vitamin A 2%\n Vitamin C 14%\n Vitamin E 1%\n Vitamin B1 (Thiamine)
+    0,02 mg\n Vitamin B2 (Riboflavin) 0,03 mg\n Vitamin B3 (Niacin) 0,09 mg\n Vitamin
+    B5 (Panthothenic acid) 0,06 mg\n Vitamin B6 (Pyridoxine) 0,04 mg\n Vitamin B9
+    (Folat)\ 1%\n Calories 52 kkal\n Protein 0,3 g\n Carbohydrate 13,8 g\n Calcium
+    6 mg\n Iron 0,12 mg\n
+  benefitContent: nt Gallstones\n Helping disgestion sytem\nterol\n Control our weight\n
+    Increase Immune System\n Prvent Cataract\n Decrease cancer possibility\n Decrease
+    diabetes\n Healthy Heart\n Prevent Gallstones\n Helping disgestion sytem\n
+  riskContent: Eating apples in excess will not cause many side effects, but as with
+    anything eaten in excess, apples may contribute to weight gain\nApples are acidic,
+    and the juice may damage tooth enamel\nSnacking on acidic foods throughout the
+    day is the most damaging, while eating them at meal times is much safer\nApple
+    seeds, also called pips, contain a substance called amygdalin, which can release
+    cyanide, a powerful poison, when it comes into contact with digestive enzymes
+  vitA: 0.2
+  vitC: 0.14
+  vitE: 0.1

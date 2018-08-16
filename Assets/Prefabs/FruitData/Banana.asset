@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Banana
+  m_EditorClassIdentifier: 
+  name: Banana
+  detailContent: 'A wide variety of health benefits are associated with the curvy
+    yellow fruit. Bananas are high in potassium and pectin, a form of fiber, said
+    Laura Flores, a San Diego-based nutritionist. They can also be a good way to get
+    magnesium and vitamins C and B6. '
+  nutritionContent: Nutrition Calories\t160 kkal\n Carbohydrate\t13 g\n Protein\t3
+    g\n Calcium\t12 mg\n Iron\t0,55 mg\n Vitamin E\t2,07 mg\n Tembaga\t0.19 mg\n Vitamin
+    B3 (Niacin)\t1,74 mg\n Vitamin B5 (Panthothenic acid)\t1,39 mg\n Vitamin A\t1%\n
+    Vitamin C\t11%\n
+  benefitContent: Bananas are good for your heart\nBananas can be helpful in overcoming
+    depression due to high levels of tryptophan, which the body converts to serotonin,
+    the mood-elevating brain neurotransmitter\nBananas are high in fiber, which can
+    help keep you regular\nFor replenishing energy and electrolytes, bananas can be
+    more effective than sports drinks\nCarrots may get all the glory for helping your
+    eyes, but bananas do their share as well\nBananas may not be overflowing with
+    calcium, but they are still helpful in keeping bones strong\nSome evidence suggests
+    that moderate consumption of bananas may be protective against kidney cancer
+  riskContent: Bananas can also contribute to sleepiness when eaten in excess due
+    to the high amount of tryptophan found in them\nBananas are a sugary fruit, so
+    eating too many and not maintaining proper dental hygiene practices can lead to
+    tooth decay\nBanana peels also have "various bioactive compounds like polyphenols,
+    carotenoids and others."
+  vitA: 0.02
+  vitC: 0.15
+  vitE: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Lemon
+  m_EditorClassIdentifier: 
+  name: Lemon
+  detailContent: 'In the morning every body cell needs to be rejuvenated, fill it
+    with water and nutrients so it can flush out all toxins and transport all the
+    nutrients to each of the places needed in the body. '
+  nutritionContent: Vitamin B3 (Niacin)   0,100 mg\n Vitamin B5 (Panthothenic acid)
+    0,190 mg\n Vitamin B6 (Pyridoxine)  0,080 mg\n Vitamin B2 (Riboflavin)  0,020
+    mg\n Vitamin B1 (Thiamine)  0,040 mg\n Sodium    2 mg\n Kalsium    26 mg\n Iron    0,600mg\n
+    Vitamin C    5.3 %\n Vitamin A    1%\n Vitamin E    0.15 %\n
+  benefitContent: Boost the immune system\n Maintain heart health and prevent stroke\n
+    Helps control oil on the skin\n can make the body more fit\n strengthen the body's
+    immune system\n can be used for natural healing\n
+  riskContent: "Lemon has a high acid content, it can irritate your esophageal lining
+    even further and can exacerbate other GERD symptoms\\nSlow erosion from lemon
+    juice can lead to stains on your teeth, increased sensitivity and, potentially,
+    cavities if there is prolonged exposure to lemon juice\\nLemon may increase iron
+    absorption\\nChloroquine\u2019s availability in the body was significantly reduced
+    when combined with lemon juice and water"
+  vitA: 0.056
+  vitC: 0.88
+  vitE: 0

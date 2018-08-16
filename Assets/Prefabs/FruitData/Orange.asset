@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  name: Orange
+  detailContent: Oranges tree are the most commonly cultivated fruit trees in the
+    world. Oranges are low in calories and full of nutrients, good for skins and can
+    help to lower our risk for many diseases because orange has over 170 different
+    phytochemicals and more than 60 flavonoids.
+  nutritionContent: Nutrition Calories\t160 kkal\n Carbohydrate\t13 g\n Protein\t3
+    g\n Calcium\t12 mg\n Iron\t0,55 mg\n Vitamin E\t2,07 mg\n Tembaga\t0.19 mg\n Vitamin
+    B3 (Niacin)\t1,74 mg\n Vitamin B5 (Panthothenic acid)\t1,39 mg\n Vitamin A\t1%\n
+    Vitamin C\t11%\n
+  benefitContent: Vitamin A 1.9%\n Vitamin C 5%\n Vitamin B1 (Thiamine) 0,08 mg\n
+    calories 47 kkal\n Protein 0,94 g\n carbohydrate 11,75 g\n calcium 33 mg\n Fosfor23
+    mg\n iron 0,4 mg\n Fiber10 mg\n
+  riskContent: When eaten in excess, the greater fiber content can effect digestion,
+    causing abdominal cramps and could also lead to diarrhea\nBecause they are a high-acid
+    food, oranges can contribute to heartburn, especially for those who already suffer
+    from heartburn regularly\nPeople who are taking beta-blockers should be careful
+    not to consume too many oranges
+  vitA: 0.022
+  vitC: 1
+  vitE: 0

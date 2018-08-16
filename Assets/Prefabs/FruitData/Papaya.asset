@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Papaya
+  m_EditorClassIdentifier: 
+  name: Papaya
+  detailContent: 'Papayas grow in tropical climates and are also known as papaws or
+    pawpaws. Their sweet taste, vibrant color, and the wide variety of health benefits
+    they provide make them a popular fruit. '
+  nutritionContent: "Protein 0,61 mg\\n carbohydrate9,81 mg\\n Vitamin A 3.65% UI\\n
+    calcium\t23 mg\\n Energy 46 kkal\\n Vitamin C 7% calcium\t23 mg\\n carbohydrate
+    12,2 g\\n Fosfor 12 mg\\n Vitamin B1 (Thiamine) 0,04 mg\\n"
+  benefitContent: Zeaxanthin, an antioxidant found in papaya, filters out harmful
+    blue light rays\nThe risk of developing asthma is lower in people who consume
+    a high amount of certain nutrients\n, Consuming the antioxidant beta-carotene,
+    found in papayas, may reduce cancer risk\nPapayas contain an enzyme called papain
+    that aids digestion\nPrevent Diabetes\nThe fiber, potassium, and vitamin content
+    in papaya all help to ward off heart disease\nCholine is a very important and
+    versatile nutrient found in papayas that aids our bodies in sleep, muscle movement,
+    learning, and memory\nWhen used topically, mashed papaya appears to be beneficial
+    for promoting wound healing and preventing infection of burned areas\nPapaya is
+    also great for hair because it contains vitamin A, a nutrient required for sebum
+    production, which keeps hair moisturized
+  riskContent: 'People with a latex allergy may also be allergic to papaya because
+    papayas contain enzymes called chitanases\n '
+  vitA: 0.185
+  vitC: 1
+  vitE: 0

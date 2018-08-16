@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9141ed0509a6bb64f87d4ec1211de612, type: 3}
+  m_Name: Mango
+  m_EditorClassIdentifier: 
+  name: Mango
+  detailContent: 'Mango has benefits to maintain skin, bones and teeth, eye and reproduction.
+    This fruit contains enough vitamin A which is about 38 mg, which can fill the
+    nutritional needs of body. '
+  nutritionContent: Energy   272 kJ (65 kcal)\n Protein   0,51g\n Vitamin B1 (Thiamine)
+    0,058 mg\n Vitamin B2 (Riboflavin) 0,057 mg\n Vitamin B3 (Niacin)  0,584 mg\n
+    Vitamin B5 (Panthothenic acid) 0,160 mg\n Calcium   10 mg\n Zinc   0,04 mg\n Vitamin
+    A   0.3%\n Vitamin C   2%\n
+  benefitContent: Reducing Risk of Diabetes\n Prevent heart disease\n Prevent Cancer\n
+    Makes your bone more healty\n Helps your digestive system\n Keeping your colesterol\n
+    Maintaining eye health\n Preventing Asthma\n
+  riskContent: Mango in addition to being a source of vitamin C also store many calories.
+    Medium-sized of mangoes contain about 135 calories\nThe more mango it means the
+    higher the fructose amount\nAvoid eating foods that are ripped with carbides include
+    mangoes\nFurthermore, the frightening effects if you eat a lots of mangoes is
+    to have indigestion, especially if you are eating immature mango\nEating raw mango
+    with its gum often causes you to get wounds, itching, blisters around the mouth\nFor
+    those who suffering from sinusitis, arthritis should not consume in large quantities\nEating
+    mangoes is also concerned with allergies especially those who are allergic to
+    fruit\nMaking mango in the form of juice can eliminate most of the fiber so that
+    the health benefits to be reduced.
+  vitA: 0.21
+  vitC: 0.69
+  vitE: 0
